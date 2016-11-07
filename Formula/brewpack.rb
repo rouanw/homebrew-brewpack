@@ -6,6 +6,6 @@ class Brewpack < Formula
   version "v0.1.0"
 
   def install
-    bin.install 'brewpack.rb'
+    bin.install 'brewpack'
   end
 end
